@@ -1,3 +1,3 @@
 def reply(text: str) -> str:
-    """A formal response function."""
-    return f"پاسخ رسمی: {text}"
+    """A completely different greeting for main branch conflict test."""
+    return f"Main branch response: {text}"
