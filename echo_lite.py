@@ -1,3 +1,3 @@
 def reply(text: str) -> str:
-    """A completely different greeting for main branch conflict test."""
-    return f"Main branch response: {text}"
+    """Final merged response combining tone and updates."""
+    return f"پاسخ رسمی نهایی: {text}"
